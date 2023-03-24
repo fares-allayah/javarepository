@@ -1,3 +1,4 @@
+![770956136_1](https://user-images.githubusercontent.com/128860534/227654296-b7976948-9724-4418-8b6d-cc776fa3234e.jpg)
 # javarepository
 
 import java.util.Scanner;
